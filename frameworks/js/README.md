@@ -39,4 +39,4 @@ In this example, replace `<textarea id="mytextarea">` with a TinyMCE 5.0 editor 
 </body>
 </html>
 ```
-To see example and demo files, see [here](../js/).
+To see example and demo files, see [here](../js/files/).
