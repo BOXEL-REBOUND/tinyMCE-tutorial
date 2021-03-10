@@ -135,4 +135,4 @@ yarn start
 ```
 To stop the development server, select on the command line or command prompt and press `Ctrl+C`.
 
-To see example and demo files, click [here](../react/).
+To see example and demo files, click [here](../react/files/).
